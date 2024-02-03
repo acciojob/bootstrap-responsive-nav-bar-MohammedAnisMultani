@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+   nav{
+    background-color: rgb(215, 232, 238);
+    border-top: 5px solid black !important; 
+    font-weight: bold;
+   }
+   
+   
+   .container-fluid>a>img
+   {
+        width: 60px !important;
+   } 
